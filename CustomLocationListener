@@ -1,0 +1,4 @@
+interface CustomLocationListener {
+    fun locationResponse(locationResult: LocationResult)
+
+}
